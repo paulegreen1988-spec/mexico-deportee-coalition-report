@@ -122,9 +122,120 @@ No report written by a human being can be perfectly free of bias, and this one i
 
 ---
 
-### Methods and Limitations: How This Report Was Conducted
+### Key Messages: For Donors, Policymakers, and Journalists
 
-(*At this point, continue directly into the Methods section already in your canvas—starting with “Primary Data Sources” and “How Conflicting Data Were Handled”—and leave the rest of your existing report structure intact.*)
+**1. The Numbers Do Not Match the Claims**  
+Administration figures suggest a historic wave of removals, but careful reading of ICE and DHS data shows that the reality is far below the rhetoric once self‑deportations and survey‑based estimates are stripped out. [web:9][web:289][web:382]
+
+**2. The Focus Is Shifting to Interior Enforcement**  
+While previous eras centered on returns at or near the border, the current approach places unprecedented emphasis on arrests and removals from inside U.S. communities, workplaces, and schools, with a much larger share of people taken from settled lives rather than recent arrivals. [web:391][web:376][web:13]
+
+**3. Who Is Being Deported Contradicts Stated Priorities**  
+Despite repeated promises to target “criminal aliens,” a large proportion of those detained and removed have either no criminal record or only minor offenses that would not typically be seen as serious public‑safety threats. [web:24][web:383][web:7]
+
+**4. Detention Is Inhumane, Expensive, and Often Unnecessary**  
+Independent investigations continue to document medical neglect, solitary confinement, preventable deaths, and extreme psychological harm in immigration detention, even though community‑based alternatives are cheaper and far less damaging. [web:261][web:4][web:2]
+
+**5. 5.9 Million U.S. Citizen Children Are at Risk**  
+Millions of citizen children live with at least one undocumented caregiver, and research links forced separation and parental deportation to severe and lasting mental‑health and educational harms that can echo across a lifetime. [web:24][web:4]
+
+**6. The Economy Needs Undocumented Workers**  
+Undocumented workers are foundational to sectors like agriculture, construction, and hospitality; large‑scale removals and deterrence measures ripple through labor markets, GDP, and prices in ways that affect U.S.‑born workers as well. [web:13][web:375]
+
+**7. Mexico Is Overwhelmed and Underfunded**  
+Mexico has announced programs such as “México te abraza” and expanded reception points, but existing infrastructure and budgets fall far short of what is needed to support large numbers of deportees and returnees in a dignified way. [web:273][web:205][web:348]
+
+**8. The DACA Crisis Is Unprecedented**  
+For the first time, a large group of long‑settled residents who have enjoyed lawful presence and work authorization for years face the real possibility of losing both and being removed to countries they barely know. [web:292][web:232][web:347]
+
+**9. Dreamer Reintegration Requires Specialized Support**  
+DACA recipients and other “Dreamers” bring U.S. degrees, English‑dominant skills, and deep American roots, which means they face distinct barriers to credential recognition, professional work, and identity rebuilding if deported to Mexico. [web:294][web:273]
+
+**10. Grassroots Resistance Is Mobilizing but Outpaced**  
+Rapid response networks, legal defense funds, and local campaigns to limit cooperation with federal enforcement are active across the country, but their capacity remains small compared with the scale of arrests, detentions, and removals. [web:2][web:392]
+
+---
+
+# PART ONE: HISTORICAL ARCHITECTURE AND POLICY EVOLUTION
+
+## Chapter 1: How We Got Here—Building the Deportation Infrastructure (1965–2024)
+
+### The Immigration and Nationality Act of 1965: Unintended Consequences
+
+The 1965 Immigration and Nationality Act ended openly racist national‑origins quotas and reshaped the legal immigration system around family ties and limited employment categories, but it did not create sufficient lawful pathways for the volume of labor migration the U.S. economy continued to demand from Mexico and other countries. [web:375][web:20] When the bracero program ended and country caps were imposed, seasonal and circular movement did not vanish; instead, the same flows increasingly occurred without authorization, laying the groundwork for a large undocumented population. [web:375]
+
+### Reagan Era: The Enforcement Turn of the 1980s
+
+The Immigration Reform and Control Act (IRCA) of 1986 combined a one‑time legalization program with new employer sanctions meant to discourage hiring undocumented workers. [web:13][web:375] While roughly 2.7 million people regularized their status, weak workplace enforcement and persistent labor demand meant unauthorized migration continued, and the undocumented population kept growing through the 1990s despite the law’s promises. [web:375]
+
+### The Punitive Turn: IIRIRA (1996)
+
+The Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA) of 1996 marked a structural break in U.S. immigration enforcement, expanding the grounds of deportability, curtailing judicial discretion, and creating new fast‑track removal procedures. [web:383][web:20] By broadening the definition of “aggravated felony” and applying it retroactively, IIRIRA turned many long‑past and relatively minor convictions into automatic triggers for detention and expulsion, effectively building a pipeline from the criminal legal system into deportation. [web:383][web:389]
+
+### Post‑9/11 Securitization (2001–2008)
+
+After the attacks of September 11, 2001, immigration enforcement was folded into a broader security frame, leading to the creation of the Department of Homeland Security, the establishment of ICE and CBP, and major investments in surveillance and detention. [web:20][web:383] Programs such as Secure Communities, which linked local police bookings to immigration databases, funneled large numbers of noncitizens into removal proceedings, including many people charged only with minor offenses or none at all. [web:2][web:388]
+
+### Obama Administration: Building Enforcement Capacity (2009–2017)
+
+The Obama administration presided over historically high numbers of removals, with estimates of roughly 2.7 to 3 million deportations over eight years depending on how returns and formal removals are counted. [web:382][web:390] While officials emphasized a focus on people with serious criminal convictions, research shows that many deportees had lived in the United States for a decade or more and that large numbers were removed for immigration violations or lower‑level offenses. [web:24][web:6] At the same time, the administration expanded detention capacity, increased reliance on private prison contractors, and laid down biometric and data‑sharing infrastructures later administrations would inherit. [web:2][web:383]
+
+### Trump’s First Term: Acceleration Without Structural Change (2017–2021)
+
+During Donald Trump’s first term, total removals were lower than the Obama and Clinton eras but the tone and targeting shifted, with more arrests of people who lacked serious criminal records and a heavy emphasis on deterrence messaging. [web:28][web:13][web:385] The administration attempted to terminate DACA, implemented the “zero tolerance” policy that led to widespread family separations at the border, and used Title 42 to rapidly expel asylum seekers during the COVID‑19 pandemic. [web:340][web:4] Although promises of “millions” of deportations were not realized numerically, the threat environment for immigrants intensified and set the stage for later policies. [web:340][web:382]
+
+### Biden Administration: Continuity and Constraint (2021–2024)
+
+The Biden administration inherited pandemic‑era measures and a strained asylum system, initially signaling a narrower enforcement focus but continuing to carry out large numbers of removals and returns, particularly at the border. [web:376][web:28] Public debate often framed Biden’s approach as “open borders,” yet DHS statistics show significant use of expulsions and deportations, including under Title 42 until its end in 2023. [web:9][web:382] Efforts to narrow interior enforcement through guidance were challenged and partly constrained by litigation from certain states, illustrating how much immigration policy now runs through the courts. [web:22][web:343]
+
+### 2025: Trump’s Second Term and the Use of Existing Systems
+
+When Trump returned to office in January 2025, he inherited a robust enforcement architecture: tens of thousands of detention beds, mature data systems linking local police and immigration databases, and legal authorities expanded since the 1990s. [web:11][web:391] Early actions in the second term did not create new legal categories so much as remove prosecutorial discretion and directive limits, signaling that anyone without lawful status could be a target and directing ICE to use its full existing authority. [web:343][web:391] In practice, this has meant a sharper turn toward interior arrests and a more punitive stance toward long‑settled residents, even as total removal numbers remain bounded by capacity, budgets, and due‑process requirements. [web:391][web:289]
+
+---
+
+## Chapter 2: The Numerical Reality—Claims Versus Evidence
+
+### The “Millions Deported” Narrative
+
+Campaign speeches and some official statements portray current enforcement as an unprecedented mass deportation campaign, often citing figures in the millions without clarifying what is being counted. [web:11][web:340] Independent analysts point out that such numbers usually mix formal removals, border returns, voluntary departures, and survey‑based estimates of “self‑deportation,” making it difficult for the public to understand what has actually happened. [web:9][web:382]
+
+### What the Data Show So Far
+
+ICE, CBP, and related DHS components publish removal and apprehension statistics that, while imperfect, allow a clearer picture of recent trends when interpreted carefully. [web:346][web:373] Early 2025 figures indicate that removals have risen compared with the low points of the pandemic and early Biden years and are on track to approach or exceed the higher levels of the mid‑2010s, but they remain below the all‑time peaks reached under Clinton and Obama. [web:9][web:376][web:382] Where the second Trump administration stands out is not total volume alone, but the geographic and legal character of removals—more from the interior, and many involving people with deep ties to U.S. communities. [web:391][web:13]
+
+### Border Returns Versus Interior Removals
+
+Analysts distinguish between “border” removals, usually involving people apprehended soon after entry, and “interior” removals, which involve people arrested after living in the United States for some time. [web:385][web:13] Historical data show that Clinton and Bush presided over very high numbers of border returns, while Obama’s early years and some more recent periods saw relatively more interior removals; under Trump’s second term the balance has again shifted toward the interior, with profound implications for families, workplaces, and local institutions. [web:28][web:391][web:289]
+
+| Administration | Approximate total removals* | Distinctive feature |
+| --- | --- | --- |
+| Clinton | Roughly 12 million (two terms, dominated by border returns). [web:28][web:382] | Built up post‑IIRIRA removal machinery; border‑focused. |
+| George W. Bush | Roughly 10 million, mostly border returns. [web:28][web:382] | Post‑9/11 securitization; creation of ICE/CBP. |
+| Obama | About 2.7–3 million formal removals, record annual averages. [web:382][web:390] | High interior removals; “deporter in chief” debate. |
+| Trump I | Roughly 1.5–2 million removals over one term. [web:28][web:382] | Fewer removals than predecessors but harsher rhetoric. |
+| Biden | Around 1.4+ million removals through FY 2024, plus many Title 42 expulsions. [web:9][web:382] | Heavy use of border returns and expulsions. |
+| Trump II (early) | Rising removals, with a higher interior share than recent years. [web:391][web:289] | Emphasis on interior enforcement and visibility. |
+
+\*Figures combine formal removals and certain returns, and vary by data source; they are presented here to illustrate relative scale and approach, not as exact counts.
+
+### The Problem of Self‑Deportation and Survey Estimates
+
+Some large figures cited for “departures” rely on surveys asking people whether they have left, plan to leave, or feel less safe, then extrapolate to millions of people assumed to have self‑deported. [web:11][web:382] Social scientists caution that such methods cannot reliably distinguish between actual departures, decisions not to migrate, status adjustments, or simple changes in survey response behavior, and that confidence intervals and response biases make precise claims about self‑deportation highly uncertain. [web:375][web:6]
+
+### Why Accurate Numbers Matter
+
+Understanding the scale and composition of removals is not just an academic exercise; it determines which communities brace for disruption, which school districts prepare for sudden absences, and how both U.S. and Mexican authorities plan for reception and reintegration. [web:13][web:420][web:273] When numbers are inflated, misused, or poorly explained, public debate becomes driven by fear and political theater rather than by realistic assessments of capacity, cost, and human impact. [web:11][web:391] For deportees and their families, the difference between a rhetoric of “millions removed” and the more complex reality can mean the difference between panic and informed preparation.
+
+---
+
+# PART FOUR: FAMILY DISSOLUTION AND PSYCHOLOGICAL TRAUMA
+
+## Chapter 5: The Children of Deportation—When Americans Lose Parents
+
+### The Scale: Millions of Children at Risk
+
+Analysts estimate that more than 5 million U.S. citizen children live in mixed‑status households where at least one parent lacks lawful immigration status, and many millions more children are close relatives of people at risk of detention of depotation.
 
 ---
 
