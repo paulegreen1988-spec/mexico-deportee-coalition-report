@@ -36,10 +36,34 @@ I expect to be just one of many members in this coalition, not its center. My ro
 
 With gratitude to Guanajuato, to every deportee who has trusted me with their story, and to anyone willing to read this with an open mind,
 
-**Paul Green**  
-Founder, The Mexico Deportee Coalition  
-PaulGreen@MexicoDeporteeCoalition.org  
+**Paul Green**
+Founder, The Mexico Deportee Coalition
+PaulGreen@MexicoDeporteeCoalition.org
 Hope Has No Borders
+
+---
+
+## Executive Summary
+
+**Key Findings**
+- **Deportation capacity, not rhetoric, sets the ceiling.** Despite escalated directives, total removals remain constrained by detention beds, court throughput, and transport limits, keeping annual totals below prior peaks. ([Part One](#part-one-historical-architecture-and-policy-evolution))
+- **Interior arrests now dominate enforcement.** The current approach prioritizes removals from settled U.S. communities rather than recent border crossers, intensifying disruption for long‑term residents. ([Part One](#part-one-historical-architecture-and-policy-evolution))
+- **Most deportees are not serious public‑safety threats.** Large shares of those detained or removed have no criminal record or only minor offenses, despite stated priorities to target violent offenders. ([Part Two](#part-two-who-is-being-deported))
+- **Detention inflicts preventable harm.** Evidence of medical neglect, solitary confinement, and avoidable deaths highlights the human and fiscal costs of detention over community‑based alternatives. ([Part Three](#part-three-the-detention-crisis))
+- **Family separation remains the deepest scar.** An estimated 5.9 million U.S. citizen children live with at least one undocumented caregiver and face acute psychological and educational risks when families are divided. ([Part Four](#part-four-family-dissolution-and-psychological-trauma))
+- **The economy relies on undocumented labor.** Key sectors and local economies depend on undocumented workers, making large‑scale removals a threat to U.S. productivity and price stability. ([Part Five](#part-five-the-economic-role-of-undocumented-workers))
+- **DACA recipients face unprecedented vulnerability.** Hundreds of thousands of long‑settled Dreamers risk losing work authorization and could be removed to countries they barely know. ([Part Seven](#part-seven-the-daca-crisiswhen-legal-status-holders-face-deportation))
+
+**Actionable Recommendations**
+- **Create durable status for long‑settled residents, including DACA recipients.** Pair legislative reform with streamlined relief pathways to stabilize families and employers. ([Part Ten](#part-ten-synthesis-recommendations-and-the-path-forward))
+- **Replace punitive detention with humane, community‑based models.** Expand case management, legal access, and medical oversight to cut costs and prevent abuse. ([Part Three](#part-three-the-detention-crisis))
+- **Invest in reception and reintegration in Mexico.** Scale coordinated housing, credentialing, and mental‑health support so deportees and returnees can rebuild safely. ([Part Six](#part-six-the-post-deportation-crisis))
+- **Fund community defense and data transparency.** Resource local legal networks, publish consistent enforcement metrics, and ensure impacted voices shape policy. ([Part Nine](#part-nine-the-resistance-and-solutions))
+
+**Headline Metrics**
+- **2.7–3 million removals during 2009–2017** provide the modern baseline and illustrate how capacity, not promises, caps annual deportations. ([Part One](#part-one-historical-architecture-and-policy-evolution))
+- **5.9 million U.S. citizen children** live with an undocumented caregiver and are exposed to the trauma of forced separation. ([Part Four](#part-four-family-dissolution-and-psychological-trauma))
+- **Just over 500,000 active DACA recipients in 2025**—many with 20+ years in the United States—could lose protections without durable status. ([Appendix A](#appendix-a-key-statistics-table))
 
 ---
 
