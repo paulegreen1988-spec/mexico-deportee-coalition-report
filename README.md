@@ -66,7 +66,7 @@ Hope Has No Borders
 
 ---
 
-## FRONT MATTER
+## Front Matter
 
 ### About The Mexico Deportee Coalition
 
@@ -156,7 +156,7 @@ Rapid response networks, legal defense funds, and local campaigns to limit coope
 
 ---
 
-# PART ONE: HISTORICAL ARCHITECTURE AND POLICY EVOLUTION
+# Part One: Historical Architecture and Policy Evolution
 
 ## Chapter 1: How We Got Here—Building the Deportation Infrastructure (1965–2024)
 
@@ -229,7 +229,19 @@ Understanding the scale and composition of removals is not just an academic exer
 
 ---
 
-# PART FOUR: FAMILY DISSOLUTION AND PSYCHOLOGICAL TRAUMA
+# Part Two: Who Is Being Deported
+
+_Content forthcoming._
+
+---
+
+# Part Three: The Detention Crisis
+
+_Content forthcoming._
+
+---
+
+# Part Four: Family Dissolution and Psychological Trauma
 
 ## Chapter 5: The Children of Deportation—When Americans Lose Parents
 
@@ -237,8 +249,9 @@ Understanding the scale and composition of removals is not just an academic exer
 
 Analysts estimate that more than 5 million U.S. citizen children live in mixed‑status households where at least one parent lacks lawful immigration status, and many millions more children are close relatives of people at risk of detention o5 depotation.
 
+---
 
----### When Detention Becomes the Family’s Center of Gravity
+### When Detention Becomes the Family’s Center of Gravity
 
 For many families, once a parent is detained, the entire household’s schedule, finances, and emotional energy begin to revolve around that facility. [web:410][web:405] Caregivers must juggle work, childcare, school meetings, and long trips to detention centers, all while trying to keep children informed enough to feel safe but not so overwhelmed that they shut down. [web:406][web:415] Phone calls to detention are often expensive and brief, and children may feel pressure to stay positive on the line even when they are scared or angry, which can make it harder for them to process what is happening. [web:410][web:452]
 
@@ -250,7 +263,7 @@ The parent or relative who remains in the United States often has to become brea
 
 When researchers and clinicians ask directly, children affected by detention and deportation consistently say they want clear information, reassurance that they are not to blame, and spaces where they can talk about what is happening without being judged. [web:452][web:406] Many also ask for practical help—transportation to visit parents, counseling in schools, and adults who understand the immigration system well enough to answer basic questions honestly. [web:417][web:420] These requests point toward interventions that are feasible but not yet widely available: trauma‑informed school supports, low‑cost mental‑health care, and community organizations equipped to walk families through the long aftermath of an enforcement action. [web:413][web:64]
 
-# PART FIVE: THE ECONOMIC ROLE OF UNDOCUMENTED WORKERS
+# Part Five: The Economic Role of Undocumented Workers
 
 ## Chapter 6: The Economic Role of Undocumented Workers
 
@@ -278,7 +291,7 @@ When a significant share of the undocumented workforce is removed or driven into
 
 Economic arguments are often used to justify harsh enforcement—claims that undocumented immigrants “steal jobs,” “drive down wages,” or “drain public coffers.” [web:13][web:421] The evidence paints a more complicated picture: undocumented workers are essential to certain industries, contribute significantly in taxes, and have limited effects on native‑born workers’ wages overall, while aggressive removals can damage local economies and public finances. [web:418][web:424][web:457] Recognizing this does not erase the need for immigration law, but it undercuts narratives that depict undocumented people only as burdens and helps explain why both U.S. and Mexican economies are entangled in any serious conversation about deportation.
 
-# PART SIX: THE POST-DEPORTATION CRISIS
+# Part Six: The Post-Deportation Crisis
 
 ## Chapter 7: Life After Deportation—What Really Happens
 
@@ -308,7 +321,7 @@ The emotional landscape after deportation is shaped by grief, shame, relief at s
 
 ---
 
-# PART SEVEN: THE DACA CRISIS—WHEN LEGAL STATUS HOLDERS FACE DEPORTATION
+# Part Seven: The DACA Crisis—When Legal Status Holders Face Deportation
 
 ## Chapter 8: DACA at a Crossroads
 
@@ -326,7 +339,7 @@ DACA recipients contribute billions of dollars in wages and taxes each year and 
 
 ---
 
-# PART EIGHT: THE BIFURCATED CRISIS—UNDERSTANDING THE DUAL THREAT
+# Part Eight: The Bifurcated Crisis—Understanding the Dual Threat
 
 ## Chapter 9: Dreamers as Transnational People
 
@@ -376,7 +389,7 @@ From the perspective of projects like The Mexico Deportee Coalition, this means 
 
 ---
 
-# PART NINE: THE RESISTANCE AND SOLUTIONS
+# Part Nine: The Resistance and Solutions
 
 ## Chapter 10: If Dreamers Are Deported
 
@@ -420,7 +433,7 @@ If governments and civil society insist on treating Dreamer deportation as impos
 
 These are not luxuries; they are the minimum needed to avoid wasting the education and experience that Dreamers have accumulated, largely in U.S. institutions. [web:623][web:544] For organizations like The Mexico Deportee Coalition, the task is not only to respond once people arrive, but to push for these structural changes, document where systems fail, and build parallel supports—a Deportee Directory, mentorship networks, and story‑driven media—so that if the worst‑case scenario unfolds, Dreamers are not left to navigate the aftermath in isolation. [web:628][web:618]
 
-# PART TEN: SYNTHESIS, RECOMMENDATIONS, AND THE PATH FORWARD
+# Part Ten: Synthesis, Recommendations, and the Path Forward
 
 ## Chapter 11: What This Moment Demands
 
