@@ -250,6 +250,8 @@ The parent or relative who remains in the United States often has to become brea
 
 When researchers and clinicians ask directly, children affected by detention and deportation consistently say they want clear information, reassurance that they are not to blame, and spaces where they can talk about what is happening without being judged. [web:452][web:406] Many also ask for practical help—transportation to visit parents, counseling in schools, and adults who understand the immigration system well enough to answer basic questions honestly. [web:417][web:420] These requests point toward interventions that are feasible but not yet widely available: trauma‑informed school supports, low‑cost mental‑health care, and community organizations equipped to walk families through the long aftermath of an enforcement action. [web:413][web:64]
 
+# PART FIVE: THE ECONOMIC ROLE OF UNDOCUMENTED WORKERS
+
 ## Chapter 6: The Economic Role of Undocumented Workers
 
 ### Why Economics Belongs in a Human Report
@@ -275,6 +277,8 @@ When a significant share of the undocumented workforce is removed or driven into
 ### Why This Matters for Policy and Public Opinion
 
 Economic arguments are often used to justify harsh enforcement—claims that undocumented immigrants “steal jobs,” “drive down wages,” or “drain public coffers.” [web:13][web:421] The evidence paints a more complicated picture: undocumented workers are essential to certain industries, contribute significantly in taxes, and have limited effects on native‑born workers’ wages overall, while aggressive removals can damage local economies and public finances. [web:418][web:424][web:457] Recognizing this does not erase the need for immigration law, but it undercuts narratives that depict undocumented people only as burdens and helps explain why both U.S. and Mexican economies are entangled in any serious conversation about deportation.
+
+# PART SIX: THE POST-DEPORTATION CRISIS
 
 ## Chapter 7: Life After Deportation—What Really Happens
 
@@ -304,6 +308,8 @@ The emotional landscape after deportation is shaped by grief, shame, relief at s
 
 ---
 
+# PART SEVEN: THE DACA CRISIS—WHEN LEGAL STATUS HOLDERS FACE DEPORTATION
+
 ## Chapter 8: DACA at a Crossroads
 
 ### A Decade of Conditional Security
@@ -320,31 +326,172 @@ DACA recipients contribute billions of dollars in wages and taxes each year and 
 
 ---
 
+# PART EIGHT: THE BIFURCATED CRISIS—UNDERSTANDING THE DUAL THREAT
+
 ## Chapter 9: Dreamers as Transnational People
 
-### Belonging on Both Sides of the Border
+### 9.1 Growing Up in the In‑Between
 
-Dreamers live at the intersection of two national stories: the country that shaped them and the country that claims them on paper. [web:294][web:273] Many were carried across borders as infants or toddlers and have no living memory of their place of birth; others came as school‑age children and remember just enough to feel that they belong partly in both places and fully in neither. [web:24][web:452] This transnational identity can be a source of strength—bilingualism, bicultural fluency, and flexibility—but it also means that policies like DACA, which stop short of citizenship, leave them perpetually half‑recognized.
+Most DACA recipients and other “Dreamers” arrived in the United States as children or adolescents and did the work of growing up—learning to read, making friends, figuring out who they are—in American schools and neighborhoods. [web:294][web:347] They pledge allegiance in classrooms, play on local sports teams, attend youth groups and quinceañeras, consume U.S. media, and internalize American cultural references, even as they also absorb the language, food, and traditions of their families’ countries of origin. [web:558][web:563] The result is a generation that is deeply bicultural, but whose legal paperwork recognizes only the country they left, not the country that shaped them.
 
-### Everyday Life Under a Conditional Program
+Scholars sometimes call this group the “1.5 generation”: neither first‑generation immigrants who arrived as adults nor second‑generation children of immigrants born in the United States, but somewhere between. [web:567] Research on this population shows that they often feel pressure to “perform” different versions of themselves in different settings—more American at school, more Mexican or Central American at home—which can be a source of both resilience and stress. [web:556][web:561] When law and policy treat them exclusively as foreigners, that experience of being in‑between turns from a cultural fact into a legal and psychological wound.
 
-In practical terms, DACA recipients live on two‑year clocks. [web:234][web:294] They must budget for renewal fees, track changing instructions, and watch court decisions that could drastically alter their future with a single ruling; employers and schools must decide how much risk to assume in investing in people whose ability to stay is formally temporary. [web:233][web:433] Psychologists and public‑health researchers link this chronic uncertainty to elevated stress, sleep problems, and symptoms of anxiety and depression, particularly when recipients also carry trauma from earlier family separation or precarious living conditions. [web:61][web:417]
+### 9.2 Bicultural Identity: Strength and Strain
+
+Work on bicultural identity integration suggests that people who are able to see their two cultural identities as compatible and overlapping tend to report better mental‑health outcomes than those who experience them as constantly in conflict. [web:568][web:565] Many Dreamers describe precisely this kind of integration: they are comfortable switching between English and Spanish, between different conversational styles with elders and peers, and they see their mixed identity as a source of creativity and empathy. [web:561][web:571] They can explain U.S. life to relatives in Mexico and Mexican family traditions to American friends, acting as cultural translators in both directions.
+
+But the same research also finds that structural exclusion—being told by institutions or laws that one does not belong—can undermine that sense of harmony and push identities into tension. [web:552][web:560] For DACA recipients, the message from daily life (“you are part of us, we rely on you”) collides with the message from the immigration system (“you can stay for now, but you may have to leave”). [web:552][web:579] Over time, this mismatch can erode trust, produce feelings of alienation, and make it harder to maintain a positive sense of self even when people are outwardly successful in school or work. [web:545][web:578]
+
+### 9.3 Belonging, Rejection, and the Politics of Being Told “Go Home”
+
+Qualitative studies with DACA recipients in states like California and North Carolina find that political attacks on the program and on immigrants more broadly have tangible effects on people’s sense of belonging. [web:560][web:556] Participants describe feeling increasingly unwanted and unsafe after high‑profile efforts to rescind DACA or restrict other forms of relief, even when their immediate daily routines did not change. [web:575][web:578] Many postpone major life decisions—buying homes, investing in advanced degrees, starting families—because they cannot trust that the country that raised them will still claim them in a few years. [web:542][web:573]
+
+The language used in public debate matters. When political leaders speak of “sending them back,” Dreamers hear a directive to leave the only home they truly know, often to countries where they may be linguistically and culturally marked as outsiders. [web:576][web:570] Some adopt a defiant stance, embracing labels like “undocumented and unafraid” and building activist identities that draw strength from community organizing. [web:574][web:562] Others turn inward, limiting their movements, avoiding public spaces, and living with chronic fear that any interaction with police or authorities could trigger a chain of events leading to deportation. [web:572][web:578]
+
+### 9.4 Mental Health in the Shadow of Uncertainty
+
+Empirical work on DACA and mental health finds that the program initially produced measurable improvements in well‑being—reducing symptoms of depression and anxiety by lowering the immediate threat of deportation and opening up opportunities in education and employment. [web:557][web:566] However, subsequent attempts to end or restrict DACA reversed many of those gains; surveys after rescission announcements show spikes in sadness, hopelessness, and clinical levels of distress among recipients. [web:575][web:578] One study found that DACA recipients were significantly more likely than both documented immigrants and non‑DACA undocumented peers to report high distress linked specifically to the threat of losing protections they had briefly enjoyed. [web:578][web:572]
+
+Dreamers also face practical barriers to accessing mental‑health care, including cost, lack of insurance, stigma, and mistrust of institutions that they fear might share information with authorities. [web:566][web:583] Many rely instead on informal coping mechanisms: faith communities, peer support groups, campus resource centers, and online networks where they can speak openly about status and identity. [web:556][web:569] These supports are powerful, but they were never designed to carry the full weight of a national policy choice; expecting informal networks to absorb the psychological fallout of legal insecurity is itself a quiet form of policy failure.
+
+### 9.5 Imagining “Home” in Mexico from Afar
+
+For Dreamers of Mexican origin, Mexico exists as both an intimate presence—through parents, food, holidays, and trips stories—and a distant abstraction, especially for those who have never visited or only did so as children. [web:563][web:564] Some describe a romanticized attachment—“soy de aquí y soy de allá,” “I’m from here and from there”—while also acknowledging that their understanding of Mexico is filtered through family narratives and occasional visits, not through the daily grind of living and working there. [web:564][web:581] Research on DACA recipients who traveled to Mexico under advance parole found that many experienced a complicated mixture of recognition and estrangement: welcomed by relatives, but marked by accent, clothing, or mannerisms as “the one from the other side.” [web:564]
+
+This matters for deportation because it reveals how limited the idea of “going back” really is. For many Dreamers, there is no seamless “return” to a life that existed before migration; there is only arrival in a place that is partly familiar and partly foreign, where they may be seen as privileged outsiders or as people who abandoned their roots. [web:564][web:552] The risk is that deportation will not simply restore a disrupted identity; it may deepen the sense of not fully belonging anywhere.
+
+### 9.6 What Deportation Would Mean for Identity
+
+If DACA were dismantled and large numbers of Dreamers were deported, the consequences would not be limited to job loss or school disruption. [web:570][web:572] People who have spent most of their lives asserting and negotiating an American identity would be forcibly recast as deportees in Mexico, where that American identity may be both a resource (English, education, global perspective) and a stigma (associated with wealth, arrogance, or foreignness). [web:564][web:571] In interviews with returnees, some describe finding unexpected pride in their Mexican identity over time, while others report enduring feelings of dislocation and ongoing efforts to “prove” their belonging in both countries. [web:564][web:582]
+
+For second‑generation U.S. citizen children of Dreamers, parental deportation would add another layer of identity complexity: they may grow up with passports and birthright citizenship in a country they no longer live in, while navigating schools and social expectations in Mexico where they are seen as extranjeros. [web:420][web:408] Their sense of who they are will be shaped not only by family and peers but by the way both states treat their parents—as valued contributors or as disposable bodies. A policy that uproots Dreamers is, in this sense, also a policy about what kind of people their children are allowed to become.
+
+### 9.7 Why Identity Work Belongs in a Policy Report
+
+It might be tempting to treat identity as a soft topic compared to budgets, detention capacity, or removal statistics, but for Dreamers it is central to understanding what policy choices actually do. [web:552][web:560] Laws that say “you are only temporarily tolerated here” do not just regulate movement; they shape how people answer the question “who am I?” and “who is my community?” The research record is clear that prolonged legal precarity and experiences of exclusion can erode mental health, reduce educational attainment, and make it harder for people to invest in long‑term goals. [web:557][web:566][web:578]
+
+From the perspective of projects like The Mexico Deportee Coalition, this means that supporting Dreamers cannot stop at helping with paperwork or job searches if deportations increase. It will also require spaces—support groups, mentorship programs, storytelling platforms, and cross‑border communities—where people can reconstruct identities that honor both where they came from and what they have lived through. [web:574][web:582] The “Deportee Directory” and a future podcast featuring deportees and Dreamers are not just media projects; they are tools for collective identity work, a way to insist that these lives are more than case numbers in any government database.
+
+
 
 ---
 
+# PART NINE: THE RESISTANCE AND SOLUTIONS
+
 ## Chapter 10: If Dreamers Are Deported
 
-### Professional and Educational Disruption
+### 10.1 From Legal Limbo to Forced Departure
 
-Should DACA collapse entirely or be narrowed in ways that trigger large‑scale deportations or “voluntary departures,” Dreamers would face a tangle of practical obstacles in Mexico. [web:273][web:295] Universities and professional regulators often require extensive paperwork to recognize foreign degrees, including authenticated transcripts, course descriptions, and revalidation exams; this process takes time, costs money, and is not guaranteed to succeed. [web:295][web:422] For a nurse, engineer, or social worker who has built a career in the United States, this can mean an abrupt shift from stable professional identity to underemployment or unemployment.
+For more than a decade, DACA has functioned as a narrow bridge over a legal void, allowing recipients to work, study, and raise families while never granting a secure immigration status. [web:294][web:552] If courts or policymakers dismantle that bridge without replacing it, a significant number of Dreamers could face direct deportation or feel compelled to “self‑deport” under pressure—leaving not by choice but because they see no viable future in the United States. [web:232][web:634] In either case, the outcome is the same: people who have built entire adult lives in the U.S. find themselves cast out into a country that, for many, exists more in family stories than in lived experience. [web:552][web:617]
 
-### Family Decisions Under Pressure
+The risk is not hypothetical. Cases already exist of DACA recipients who traveled on advance parole, were caught in technicalities or old removal orders, and were summarily sent to Mexico despite having authorization to re‑enter. [web:626][web:637] Their accounts—of suddenly realizing, at an airport or border crossing, that they might not be allowed back to their homes, jobs, and families—foreshadow what a larger wave of Dreamer deportations would feel like on the ground. [web:626][web:617]
 
-Many DACA recipients are now parents of U.S. citizen children or partners of people with varied statuses; any deportation or forced move would force families into painful choices. [web:420][web:405] Some might decide to keep children in the United States for the sake of schooling and stability, accepting long‑term separation and complicated caregiving arrangements; others might move together to Mexico, where children must adapt to new schools, languages, and social norms. [web:408][web:463] Either choice carries costs, and neither fits the public narrative of deportation as a simple matter of “going back where you came from.”
+### 10.2 Professional and Educational Roadblocks in Mexico
 
-### Identity, Faith, and the Possibility of Rebuilding
+Dreamers who arrive in Mexico after years of schooling and work in the United States bring human capital that should, in theory, be valuable: degrees, licenses, bilingual skills, and professional networks. [web:294][web:544] In practice, their path is blocked by complex and often slow processes for recognizing foreign credentials. Mexico requires “revalidación” of foreign studies and degrees through the Ministry of Education and related bodies, a procedure that involves gathering official diplomas, transcripts, and sometimes detailed course syllabi, then waiting months for review. [web:629][web:644] For certain professions—like medicine—specialized councils and universities must also certify that curricula are equivalent, a process that can take close to a year and may demand additional coursework or exams. [web:635][web:632]
 
-For Dreamers who end up in places like Guanajuato, faith communities, mutual‑aid networks, and projects like The Mexico Deportee Coalition could become critical spaces for making sense of what has happened and imagining new futures. [web:422][web:436] People who have spent years advocating for change in the United States may be uniquely positioned to help others navigate cross‑border systems, build bilingual support groups, and share strategies for turning forced return into a platform for collective action. [web:417][web:413] None of this removes the harm of deportation, but it does point to the possibility that even deeply unjust policies can be met with organized responses rooted in hope and solidarity.
+For a Dreamer who has been working as a nurse, engineer, or teacher in the United States, this can mean an abrupt fall from stable professional identity into underemployment: call‑center work, informal tutoring, low‑wage service jobs, or periods of unemployment while paperwork crawls through the system. [web:618][web:628] Some may eventually manage to align their credentials with Mexican requirements and re‑enter their fields, but the delay has real costs—lost income, drained savings, and erosion of skills that were honed in U.S. workplaces. [web:618][web:632]
+
+### 10.3 Reintegration as a Long, Uneven Process
+
+Research on return and deported migrants in cities like León and Mexico City shows that reintegration is not a single moment but a multi‑year process shaped by social networks, savings, and local labor markets. [web:618][web:619] Deportees often start at a disadvantage compared with voluntary returnees: they arrive with fewer resources, less control over timing, and more acute emotional distress. [web:619][web:622] Over time, some manage to leverage their skills and transnational ties to rebuild livelihoods, but many report long stretches of precarious work, housing insecurity, and ongoing feelings of disempowerment. [web:618][web:639]
+
+Dreamers fit awkwardly into this picture. They may speak Spanish with an accent, lack Mexican work histories, and have limited familiarity with how institutions function, from banking to public health systems. [web:563][web:552] Studies on “de facto deportation” and adolescent returnees in Mexican states such as Oaxaca highlight high levels of helplessness, anger, and mental‑health symptoms among young people who feel they have been pushed out of the United States and dropped into an environment they did not choose. [web:642][web:619] For DACA recipients in their twenties and thirties, the same dynamics apply, but with the added weight of responsibility for children and older relatives.
+
+### 10.4 Mental Health After Forced Return
+
+The mental‑health consequences of deportation are well‑documented: elevated rates of depression, anxiety, and poor sleep among deportees compared with both non‑migrants and voluntary returnees. [web:633][web:636] A qualitative study of Mexicans returned from the United States found that those who were deported or forced to return reported more intense emotional distress than those who chose to go back, often describing feelings of shame, loss of control, and bitterness about the conditions that pushed them out. [web:619] Another project focusing on returned migrants in Mexico City identified higher levels of depressive symptoms and psychological distress among those who left children behind, especially when social support was weak. [web:630]
+
+For Dreamers, the psychological stakes are even higher because deportation strikes at the core of their identity. [web:617][web:552] Clinicians who work with this population note that many have spent years coping with chronic legal uncertainty, discrimination, and fear of family separation; being deported after such a prolonged struggle can trigger not only acute trauma responses but also a sense of narrative collapse—“everything I did to play by the rules still ended in exile.” [web:617][web:575] Without targeted, culturally attuned mental‑health services in Mexico, there is a serious risk that large‑scale Dreamer deportations would produce a shadow mental‑health crisis among a group that, on paper, appears highly “successful.” [web:639][web:646]
+
+### 10.5 Families, Children, and Transnational Fallout
+
+Many DACA recipients are now parents of U.S. citizen children or caregivers in extended families with mixed statuses. [web:557][web:420] If they are deported, families face wrenching choices: split households and leave children in the United States with the other parent or relatives, or relocate together to Mexico where children must adapt to new schools, languages, and social norms. [web:643][web:408] Existing research on U.S. citizen minors living in Mexico shows that children who move south after a parent’s deportation or forced return can struggle with placement in the Mexican school system, documentation gaps, and discrimination, all of which compound the emotional impact of the move. [web:643][web:639]
+
+At the community level, enforced return on a large scale may have broader effects. One study tracing the “long shadow” of U.S. immigration enforcement on violence found that municipalities in Mexico receiving higher numbers of deportees saw increases in homicide rates and criminal‑organization presence, suggesting that mass return can strain local systems and create openings for crime. [web:620] If Dreamers are pushed into the same under‑resourced settings as other deportees, their skills and aspirations may be undercut by surroundings marked by insecurity, limited public services, and few paths to meaningful work—conditions that hurt not just them, but also their families and neighbors. [web:628][web:640]
+
+### 10.6 What Could Be Different: Planning for Dreamer Reintegration Now
+
+If governments and civil society insist on treating Dreamer deportation as impossible or purely hypothetical, they will be unprepared if it happens. [web:628][web:631] A more responsible approach would acknowledge the risk and start building specific reintegration pathways now, even while fighting for permanent protections in the United States. That could include:
+
+- **Dedicated credential‑recognition tracks** for returnees educated in U.S. schools and universities, with streamlined processes, clear timelines, and reduced fees. [web:629][web:644]  
+- **Targeted job‑matching and entrepreneurship programs** that connect Dreamers’ skills—language, technology, teaching, health care—with real opportunities in Mexican labor markets, rather than defaulting to low‑wage, low‑skill placements. [web:618][web:641]  
+- **Binational mental‑health initiatives** that train providers on the specific experiences of deported Dreamers and offer low‑cost counseling, peer support groups, and crisis hotlines in high‑return regions. [web:639][web:646]
+
+These are not luxuries; they are the minimum needed to avoid wasting the education and experience that Dreamers have accumulated, largely in U.S. institutions. [web:623][web:544] For organizations like The Mexico Deportee Coalition, the task is not only to respond once people arrive, but to push for these structural changes, document where systems fail, and build parallel supports—a Deportee Directory, mentorship networks, and story‑driven media—so that if the worst‑case scenario unfolds, Dreamers are not left to navigate the aftermath in isolation. [web:628][web:618]
+
+# PART TEN: SYNTHESIS, RECOMMENDATIONS, AND THE PATH FORWARD
+
+## Chapter 11: What This Moment Demands
+
+### 11.1 Naming the Dual Crisis
+
+Across this report, two realities keep colliding: a U.S. system moving toward mass detention and deportation as a primary policy tool, and a Mexican system asked to absorb the human fallout with limited resources and fragile local conditions. [web:11][web:422] Plans and agendas associated with Project 2025 and similar efforts explicitly envision greatly expanded use of expedited removals, detention capacity, and executive power over immigration, while narrowing humanitarian protections and legal avenues. [web:172][web:657][web:658] On the other side of the border, strategies like “México te abraza” offer important but modest supports—shelter, transport, small cash transfers—within broader budgets that are tightening and institutions already stretched by other migration flows. [web:499][web:422][web:504]
+
+This is the bifurcated crisis: not just more removals from the United States, and not just more pressure on Mexican shelters and reception centers, but the combination of both at scale. [web:628][web:640] It is a crisis that runs through detention centers, schoolyards, remittance‑dependent towns, border shelters, and the lives of Dreamers whose identities and skills do not fit any simple category of “returnee.” [web:24][web:552][web:618]
+
+### 11.2 What Mass Deportation Would Actually Do
+
+Economic and policy modeling makes clear that mass deportation on the scale proposed in recent blueprints would be costly and destabilizing, not just for undocumented people but for citizens and lawful residents. [web:672][web:661] National and state‑level analyses project reductions in GDP, job losses for U.S.‑born workers, and billions in lost federal, state, and local tax revenue if large shares of the undocumented workforce were removed, particularly in agriculture, construction, hospitality, and care work. [web:103][web:664][web:686] One study focusing on California estimates that mass deportations would cut hundreds of billions from that state’s economy alone and “decimate” key sectors; similar reports for New York, Minnesota, and other states reach parallel conclusions. [web:695][web:667][web:670]
+
+At the same time, research on social and public‑health impacts shows that aggressive enforcement increases family separation, community stress, and adverse health outcomes, especially for children and mixed‑status households. [web:24][web:4][web:684] Expanded removal powers and detention capacity do not simply produce “order”; they export trauma to Mexico, where receiving communities must confront the combined consequences of U.S. policy and their own structural inequalities. [web:628][web:639][web:691]
+
+### 11.3 A Different Set of Policy Choices
+
+There is nothing inevitable about the path toward mass deportation. Policy briefs and research‑based proposals offer a different direction that would prioritize safety, fairness, and long‑term stability:
+
+- **Refocus enforcement on genuine public‑safety threats** by tailoring priorities to people who pose serious risks, rather than sweeping in parents, long‑term workers, and Dreamers who have grown up in the United States. [web:602][web:676]  
+- **Create durable status for long‑settled residents**, including DACA recipients and other mixed‑status families, through legislation that provides a path to citizenship and removes the constant threat of removal from people who are already woven into U.S. communities. [web:552][web:544][web:694]  
+- **Guarantee access to legal representation and due process** in immigration proceedings so that life‑altering decisions are not made in assembly‑line hearings where most people lack attorneys. [web:11][web:676]  
+
+On the Mexican side, a forward‑looking response would mean converting emergency reception efforts into a long‑term reintegration policy: systematic funding for credential recognition, targeted employment programs, mental‑health services, and safety strategies in high‑return municipalities. [web:422][web:628][web:639] The goal would be to ensure that deportees and returnees are seen not just as a welfare burden, but as potential contributors whose skills and experience can strengthen local economies and civic life. [web:618][web:691]
+
+### 11.4 The Role for Civil Society and Cross‑Border Infrastructure
+
+Even under better laws, there will always be people caught in the gears of enforcement and return. That is why civil‑society infrastructure—on both sides of the border—is as important as statutory reform. Rapid response networks, legal defense funds, and campus and community “safe” policies in the United States help people survive enforcement actions with some measure of dignity and support. [web:485][web:489][web:662] Mexican shelters, human‑rights organizations, and local collectives provide first‑line care and accompaniment for deportees and migrants who arrive with few resources and significant trauma. [web:504][web:506][web:498]
+
+The missing piece is a durable cross‑border backbone that connects these efforts: a way for legal teams in the U.S. to coordinate with reception centers in Mexico, for deportees to find each other and trusted services quickly, and for Dreamers forced to return to access specialized guidance on education, licensing, and mental health. [web:628][web:618] This is the space The Mexico Deportee Coalition aims to inhabit—not as a replacement for existing organizations, but as connective tissue that amplifies them, fills gaps, and keeps deportees themselves at the center of the story.
+
+### 11.5 What This Report Asks of the Reader
+
+This report cannot stop a single deportation on its own, but it can help clarify what is at stake and what kinds of action matter. For lawmakers and policymakers, the request is straightforward: treat mass deportation not as an abstract talking point but as a policy with measurable economic, social, and human costs on both sides of the border, and legislate accordingly. [web:11][web:672][web:694] For funders and institutions, the invitation is to invest in the less visible infrastructure of legal defense, mental‑health care, and reintegration in Mexico, not only in high‑profile border operations. [web:103][web:686][web:498]
+
+For communities, deportees, and Dreamers themselves, the call is to keep building the networks of solidarity that have always been the real counterweight to humiliation and isolation: rapid response teams, mutual‑aid projects, shelters, study groups, advocacy campaigns, and, now, coalitions like TMDC that explicitly link life in the United States to life after deportation in Mexico. [web:485][web:498][web:606] The choices made in the next few years will determine whether mass deportation remains a looming threat or becomes a lived reality for millions. This report is one contribution to making those choices as honest, informed, and humane as possible.
+
+---
+
+# Appendix A: Key Statistics Table
+
+> These figures are compiled from multiple reports and are approximate ranges meant to orient the reader, not replace detailed technical documentation.
+
+| Indicator | Approximate value / range | Notes |
+| --- | --- | --- |
+| Undocumented immigrants in the U.S. | About 10–11 million people [web:11][web:694] | Concentrated in several states; many are long‑term residents. |
+| Undocumented workers in the labor force | Roughly 7–8 million workers [web:672][web:690] | High participation in agriculture, construction, hospitality, and care work. |
+| Active DACA recipients (2025) | Just over 500,000 people [web:294][web:232] | Average age late 20s–early 30s; many have lived 20+ years in the U.S. |
+| U.S. citizen children with at least one undocumented parent | About 5–6 million children [web:420][web:24] | Highly vulnerable to detention and deportation of caregivers. |
+| Estimated annual tax contributions of undocumented immigrants | Around $90–100 billion in combined federal, state, and local taxes [web:424][web:690][web:686] | Includes payroll, income, property (direct and via rent), and sales taxes. |
+| Projected GDP impact of nationwide mass deportation | Multi‑hundred‑billion‑dollar reduction over a decade [web:672][web:661][web:692] | Modeling suggests significant job and output losses even for citizens. |
+| Share of deportees with U.S. citizen children | Often one‑quarter to one‑third of interior removals in studied samples [web:24][web:420] | Exact rates vary by time period and enforcement priorities. |
+| Number of Mexicans deported or returned from the U.S. annually (recent years) | On the order of several hundred thousand per year, depending on policy and migration flows [web:422][web:640] | Includes formal removals and other return mechanisms. |
+| Documented mental‑health impacts on children facing parental detention/deportation | Elevated rates of anxiety, depression, PTSD‑like symptoms, and school difficulties [web:24][web:4][web:684] | Effects can persist into adulthood and influence long‑term outcomes. |
+
+---
+
+# Sources and References
+
+This report draws on a wide range of research and documentation, including:
+
+- **Psychological and family impacts of enforcement and deportation**: clinical and policy statements, longitudinal studies, and mixed‑methods research on how detention and removal affect children’s mental health, family functioning, and community well‑being. [web:24][web:4][web:406][web:420][web:684]  
+- **Detention conditions and public‑health consequences**: investigations of immigration detention facilities, analyses of health outcomes linked to detention and return migration, and evaluations of alternatives to detention. [web:261][web:636][web:506][web:684]  
+- **Economic and fiscal effects of mass deportation and expanded enforcement**: modeling of GDP, employment, and tax impacts at national and state levels; sector‑specific analyses; and reviews of how enforcement trajectories intersect with labor markets. [web:103][web:661][web:672][web:686][web:692][web:695]  
+- **DACA and Dreamers**: demographic and economic profiles, health studies, and work on identity and belonging among DACA recipients and other members of the 1.5 generation. [web:294][web:544][web:552][web:557][web:575]  
+- **Return, reintegration, and Mexico’s reception systems**: reports on “México te abraza,” budget and policy analyses, and qualitative and quantitative work on return migration, reintegration challenges, and local impacts in Mexican communities. [web:422][web:499][web:504][web:618][web:628][web:639][web:640]  
+- **Policy blueprints and critiques of mass‑deportation agendas**: assessments of Project 2025 and related proposals, legal and civil‑rights analyses, and policy briefs outlining alternative enforcement and legalization strategies. [web:11][web:172][web:657][web:659][web:676]  
+- **Community and civil‑society responses**: documentation of rapid response networks, legal defense funds, sanctuary and safe‑campus policies, and cross‑border faith and humanitarian initiatives. [web:485][web:489][web:495][web:662][web:498][web:606]
+
+Readers seeking more technical detail on specific statistics or studies are encouraged to consult these underlying sources directly, using them as starting points for deeper exploration of the evidence behind each section of this report.
+
 
 ---
 
