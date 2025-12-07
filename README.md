@@ -5,7 +5,7 @@
 
 **Prepared for:** The Mexico Deportee Coalition (TMDC)  
 **Prepared by:** Paul Green  
-**Date:** December 6, 2025  
+**Date:** December 7, 2025  
 **Location:** Guanajuato, Guanajuato, Mexico  
 **Email:** PaulGreen@MexicoDeporteeCoalition.com  
 **Phone:** +1 (980) 318 3094
