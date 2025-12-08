@@ -7,14 +7,13 @@
 **Prepared by:** Paul Green  
 **Date:** December 7, 2025  
 **Location:** Guanajuato, Guanajuato, Mexico  
-**Email:** PaulGreen@MexicoDeporteeCoalition.com  
-**Phone:** +1 (980) 318 3094
+**Email:** info@MexicoDeporteeCoalition.org
 
 To everyone who has ever crossed a border, loved someone who left, or wondered what truly happens after a deportation order is signed: this report is for you.
 
 > **About The Mexico Deportee Coalition (TMDC)**
 > 
-> The Mexico Deportee Coalition is an emerging, nonpartisan effort dedicated to documenting the realities of deportation between the United States and Mexico, supporting deportees and their families, and advancing solutions grounded in evidence rather than ideology. At this stage TMDC is one person’s evolving vision for how to help address a severe and growing problem, shared publicly in the hope of sparking a broader, cross‑border coalition. This report aims to remain as unbiased as possible and to base every major claim on publicly available data, peer‑reviewed research, and documented government records. It is not legal advice, is not a substitute for professional counsel, and is not legally binding in any way. Errors or omissions are possible; this document is offered for educational purposes, early‑stage fundraising, and awareness‑building only. Anyone with suggestions, questions, corrections, or concerns is warmly invited to contact the author directly at PaulGreen@MexicoDeporteeCoalition.com. [web:263][web:273][web:293]
+> The Mexico Deportee Coalition is an emerging, nonpartisan effort dedicated to documenting the realities of deportation between the United States and Mexico, supporting deportees and their families, and advancing solutions grounded in evidence rather than ideology. At this stage TMDC is one person’s evolving vision for how to help address a severe and growing problem, shared publicly in the hope of sparking a broader, cross‑border coalition. This report aims to remain as unbiased as possible and to base every major claim on publicly available data, peer‑reviewed research, and documented government records. It is not legal advice, is not a substitute for professional counsel, and is not legally binding in any way. Errors or omissions are possible; this document is offered for educational purposes, early‑stage fundraising, and awareness‑building only. Anyone with suggestions, questions, corrections, or concerns is warmly invited to contact the author directly at info@MexicoDeporteeCoalition.org. [web:263][web:273][web:293]
 
 ---
 
@@ -36,10 +35,34 @@ I expect to be just one of many members in this coalition, not its center. My ro
 
 With gratitude to Guanajuato, to every deportee who has trusted me with their story, and to anyone willing to read this with an open mind,
 
-**Paul Green**  
-Founder, The Mexico Deportee Coalition  
-PaulGreen@MexicoDeporteeCoalition.org  
+**Paul Green**
+Founder, The Mexico Deportee Coalition
+PaulGreen@MexicoDeporteeCoalition.org
 Hope Has No Borders
+
+---
+
+## Executive Summary
+
+**Key Findings**
+- **Deportation capacity, not rhetoric, sets the ceiling.** Despite escalated directives, total removals remain constrained by detention beds, court throughput, and transport limits, keeping annual totals below prior peaks. ([Part One](#part-one-historical-architecture-and-policy-evolution))
+- **Interior arrests now dominate enforcement.** The current approach prioritizes removals from settled U.S. communities rather than recent border crossers, intensifying disruption for long‑term residents. ([Part One](#part-one-historical-architecture-and-policy-evolution))
+- **Most deportees are not serious public‑safety threats.** Large shares of those detained or removed have no criminal record or only minor offenses, despite stated priorities to target violent offenders. ([Part Two](#part-two-who-is-being-deported))
+- **Detention inflicts preventable harm.** Evidence of medical neglect, solitary confinement, and avoidable deaths highlights the human and fiscal costs of detention over community‑based alternatives. ([Part Three](#part-three-the-detention-crisis))
+- **Family separation remains the deepest scar.** An estimated 5.9 million U.S. citizen children live with at least one undocumented caregiver and face acute psychological and educational risks when families are divided. ([Part Four](#part-four-family-dissolution-and-psychological-trauma))
+- **The economy relies on undocumented labor.** Key sectors and local economies depend on undocumented workers, making large‑scale removals a threat to U.S. productivity and price stability. ([Part Five](#part-five-the-economic-role-of-undocumented-workers))
+- **DACA recipients face unprecedented vulnerability.** Hundreds of thousands of long‑settled Dreamers risk losing work authorization and could be removed to countries they barely know. ([Part Seven](#part-seven-the-daca-crisis-when-legal-status-holders-face-deportation))
+
+**Actionable Recommendations**
+- **Create durable status for long‑settled residents, including DACA recipients.** Pair legislative reform with streamlined relief pathways to stabilize families and employers. ([Part Ten](#part-ten-synthesis-recommendations-and-the-path-forward))
+- **Replace punitive detention with humane, community‑based models.** Expand case management, legal access, and medical oversight to cut costs and prevent abuse. ([Part Three](#part-three-the-detention-crisis))
+- **Invest in reception and reintegration in Mexico.** Scale coordinated housing, credentialing, and mental‑health support so deportees and returnees can rebuild safely. ([Part Six](#part-six-the-post-deportation-crisis))
+- **Fund community defense and data transparency.** Resource local legal networks, publish consistent enforcement metrics, and ensure impacted voices shape policy. ([Part Nine](#part-nine-the-resistance-and-solutions))
+
+**Headline Metrics**
+- **2.7–3 million removals during 2009–2017** provide the modern baseline and illustrate how capacity, not promises, caps annual deportations. ([Part One](#part-one-historical-architecture-and-policy-evolution))
+- **5.9 million U.S. citizen children** live with an undocumented caregiver and are exposed to the trauma of forced separation. ([Part Four](#part-four-family-dissolution-and-psychological-trauma))
+- **Just over 500,000 active DACA recipients in 2025**—many with 20+ years in the United States—could lose protections without durable status. ([Appendix A](#appendix-a-key-statistics-table))
 
 ---
 
@@ -57,8 +80,8 @@ Hope Has No Borders
 - [Part Four: Family Dissolution and Psychological Trauma](#part-four-family-dissolution-and-psychological-trauma)  
 - [Part Five: The Economic Role of Undocumented Workers](#part-five-the-economic-role-of-undocumented-workers)  
 - [Part Six: The Post-Deportation Crisis](#part-six-the-post-deportation-crisis)  
-- [Part Seven: The DACA Crisis—When Legal Status Holders Face Deportation](#part-seven-the-daca-crisiswhen-legal-status-holders-face-deportation)  
-- [Part Eight: The Bifurcated Crisis—Understanding the Dual Threat](#part-eight-the-bifurcated-crisisunderstanding-the-dual-threat)  
+- [Part Seven: The DACA Crisis—When Legal Status Holders Face Deportation](#part-seven-the-daca-crisis-when-legal-status-holders-face-deportation)
+- [Part Eight: The Bifurcated Crisis—Understanding the Dual Threat](#part-eight-the-bifurcated-crisis-understanding-the-dual-threat)
 - [Part Nine: The Resistance and Solutions](#part-nine-the-resistance-and-solutions)  
 - [Part Ten: Synthesis, Recommendations, and the Path Forward](#part-ten-synthesis-recommendations-and-the-path-forward)  
 - [Appendix A: Key Statistics Table](#appendix-a-key-statistics-table)  
@@ -84,7 +107,7 @@ The Mexico Deportee Coalition (TMDC) is a nonpartisan organization dedicated to 
 **Our Commitment**: This report strives to meet high standards of academic and journalistic rigor for a small, emerging initiative. Sources are cited transparently, limitations and uncertainties are acknowledged, and critique and additional evidence are welcomed. [web:293]
 
 > **Important Notice on Legal Status, Contributions, and Liability**  
-> TMDC is in the early stages of formalizing its structure and pursuing 501(c)(3) status in the United States. Nothing in this document constitutes legal advice, tax advice, financial advice, or a binding promise of services. Readers should consult qualified professionals before making legal, financial, or immigration decisions. Any financial contributions made in response to this report are voluntary, will be used to help design, launch, and stabilize this project, and **are not tax‑deductible at this time**. Once nonprofit status is secured, future contributions may qualify as charitable gifts under applicable law, but no guarantees can be made here. Any errors identified should be reported to PaulGreen@MexicoDeporteeCoalition.com so they can be corrected in future editions. [web:293]
+> TMDC is in the early stages of formalizing its structure and pursuing 501(c)(3) status in the United States. Nothing in this document constitutes legal advice, tax advice, financial advice, or a binding promise of services. Readers should consult qualified professionals before making legal, financial, or immigration decisions. Any financial contributions made in response to this report are voluntary, will be used to help design, launch, and stabilize this project, and **are not tax‑deductible at this time**. Once nonprofit status is secured, future contributions may qualify as charitable gifts under applicable law, but no guarantees can be made here. Any errors identified should be reported to info@MexicoDeporteeCoalition.org so they can be corrected in future editions. [web:293]
 
 ---
 
@@ -118,7 +141,7 @@ This report takes positions on facts, not parties. Wherever possible, it compare
 
 When numbers differ—for example between administration claims and independent estimates of removals, or between Mexican government announcements and on‑the‑ground evaluations of programs like “México te abraza”—the discrepancy is spelled out rather than glossed over. Methods, timeframes, and definitions are explained so readers can see why numbers do or do not line up. [web:14][web:11][web:205][web:218][web:298]
 
-No report written by a human being can be perfectly free of bias, and this one is no exception. It reflects an author who lives in Mexico, works with would‑be movers and some deportees, and is committed to the dignity of migrants. That is why critique is not only tolerated but invited: readers are encouraged to send corrections, additional data, or alternative interpretations to PaulGreen@MexicoDeporteeCoalition.com so that future editions can be more accurate, complete, and fair‑minded. [web:293]
+No report written by a human being can be perfectly free of bias, and this one is no exception. It reflects an author who lives in Mexico, works with would‑be movers and some deportees, and is committed to the dignity of migrants. That is why critique is not only tolerated but invited: readers are encouraged to send corrections, additional data, or alternative interpretations to info@MexicoDeporteeCoalition.org so that future editions can be more accurate, complete, and fair‑minded. [web:293]
 
 ---
 
@@ -308,6 +331,7 @@ The emotional landscape after deportation is shaped by grief, shame, relief at s
 
 ---
 
+<a id="part-seven-the-daca-crisis-when-legal-status-holders-face-deportation"></a>
 # PART SEVEN: THE DACA CRISIS—WHEN LEGAL STATUS HOLDERS FACE DEPORTATION
 
 ## Chapter 8: DACA at a Crossroads
@@ -326,6 +350,7 @@ DACA recipients contribute billions of dollars in wages and taxes each year and 
 
 ---
 
+<a id="part-eight-the-bifurcated-crisis-understanding-the-dual-threat"></a>
 # PART EIGHT: THE BIFURCATED CRISIS—UNDERSTANDING THE DUAL THREAT
 
 ## Chapter 9: Dreamers as Transnational People
